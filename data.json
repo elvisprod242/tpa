@@ -1,5 +1,22 @@
 [
-  { "nom": "Alice", "age": 25, "ville": "Paris" },
-  { "nom": "Bob", "age": 30, "ville": "Lyon" },
-  { "nom": "Charlie", "age": 22, "ville": "Marseille" }
+  {
+    "nom": "Alice",
+    "age": 25,
+    "ville": "Paris"
+  },
+  {
+    "nom": "Bob",
+    "age": 30,
+    "ville": "Lyon"
+  },
+  {
+    "nom": "Charlie",
+    "age": 22,
+    "ville": "Marseille"
+  },
+{
+    "nom": "BOKOLO",
+    "age": 25,
+    "ville": "Pointe Noire"
+  }
 ]
